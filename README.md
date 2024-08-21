@@ -8,3 +8,4 @@ Primeras ideas:
 2-Poder entrelazar palabras por letras en común sin que se solapen
 3-Poder indicar por consola cual palabra se desea adivinar
 4-Poder ingresar por consola las letras correspondiente y manejo de excepciones
+5- x
